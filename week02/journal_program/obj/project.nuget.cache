@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrB4vrXCh6g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\BYU\\CSE 210 Programming with Classes\\cse210-projects\\week02\\journal_program\\journal_program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\system.text.json\\10.0.8\\system.text.json.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json no se eliminará. Considere la posibilidad de quitar este paquete de las dependencias, ya que es probable que no sea necesario.",
+      "projectPath": "C:\\Users\\pc\\Downloads\\BYU\\CSE 210 Programming with Classes\\cse210-projects\\week02\\journal_program\\journal_program.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\pc\\Downloads\\BYU\\CSE 210 Programming with Classes\\cse210-projects\\week02\\journal_program\\journal_program.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
