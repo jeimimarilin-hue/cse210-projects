@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
+//Creativity: I added an animation: "🌑", "🌒", "🌓", "🌔", "🌕", "🌖", "🌗", "🌘"
+
 public class Activity
 {
     protected string _name;
@@ -39,7 +41,7 @@ public class Activity
 
     public void ShowSpinner(int seconds)
     {
-        List<string> animationStrings = new List<string> { "🌑", "🌒", "🌓", "🌔", "🌕", "🌖", "🌗", "🌘" };
+        List<string> animationStrings = new List<string> { "🌑", "🌒", "🌓", "🌔", "🌕", "🌖", "🌗", "🌘" }; //Here is the animation I added.
         DateTime startTime = DateTime.Now;
         DateTime endTime = startTime.AddSeconds(seconds);
 
